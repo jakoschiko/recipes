@@ -7,7 +7,7 @@
 - 12 Löffelbiskuits (entspricht einer Packung)
 - 30 Teelöffel abgekühlter, starker Kaffe
 - 12 Teelöffel Amaretto
-- Kakaopulver zum Bestreuen
+- Backkakao zum Bestreuen
 
 ## Zubereitung
 
@@ -20,6 +20,6 @@
 - Die 6 Löffelbiskuits mit je 2,5 Teelöffel Kaffe und 1 Teelöffel Amaretto übergießen
 - Die restliche Mascarpone-Milchmädchen-Creme auf die Löffelbiskuits geben und glattstreichen
 - Abgedeckt über Nacht im Kühlschrank stehen lassen
-- Vor dem Servieren mit reichlich Kakaopulver bestreuen
+- Vor dem Servieren mit reichlich Backkakao bestreuen
 
 Lässt sich ohne Probleme 4 Tage im Kühlschrank lagern. Schmeckt ideal am zweiten Tag nach Zubereitung.
