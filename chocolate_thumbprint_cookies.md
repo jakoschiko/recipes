@@ -5,6 +5,7 @@
 - 140g Weizen-Vollkornmehl
 - 130g Zucker
 - 120g Butter
+- 80ml Milch
 - 40g Kako
 - 1/4 TL Salz
 - 1/4 TL Backpulver
