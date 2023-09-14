@@ -6,7 +6,7 @@
 - 400g Milchmädchen (1 kleine Dose)
 - 100g geschälte Erdnüsse
 - 250g Butter (1 Packung)
-- 10 Teelöffel Backkakao
+- 50g Backkakao
 
 ## Material
 
