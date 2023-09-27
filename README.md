@@ -1,5 +1,6 @@
 # Rezepte
 
+* [Baba Jaga](baba_jaga.md)
 * [Blini mit Hackfleischfüllung](blini.md)
 * [Piroschki](piroschki.md)
 * [Milchmädchen-Tiramisu](milchmaedchen_tiramisu.md)
