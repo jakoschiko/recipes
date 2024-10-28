@@ -6,4 +6,5 @@
 * [Milchmädchen-Tiramisu](milchmaedchen_tiramisu.md)
 * [Peanut Butter Cheesecake](peanut_butter_cheesecake.md)
 * [Piroschki](piroschki.md)
+* [Sauerkraut](sauerkraut.md)
 * [Schokoladenwurst](schokoladenwurst.md)
