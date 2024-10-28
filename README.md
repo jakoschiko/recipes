@@ -6,3 +6,4 @@
 * [Milchmädchen-Tiramisu](milchmaedchen_tiramisu.md)
 * [Piroschki](piroschki.md)
 * [Schokoladenwurst](schokoladenwurst.md)
+* [Vinaigrette](vinaigrette.md)
