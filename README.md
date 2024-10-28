@@ -7,3 +7,4 @@
 * [Peanut Butter Cheesecake](peanut_butter_cheesecake.md)
 * [Piroschki](piroschki.md)
 * [Schokoladenwurst](schokoladenwurst.md)
+* [Vinaigrette](vinaigrette.md)
