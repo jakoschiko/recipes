@@ -1,4 +1,4 @@
-# Chocolate-Thumbprint-Cookies
+# Chocolate Thumbprint Cookies
 
 ## Zutaten
 

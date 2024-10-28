@@ -2,7 +2,7 @@
 
 * [Baba Jaga](baba_jaga.md)
 * [Blini mit Hackfleischfüllung](blini.md)
-* [Piroschki](piroschki.md)
+* [Chocolate Thumbprint Cookies](chocolate_thumbprint_cookies.md)
 * [Milchmädchen-Tiramisu](milchmaedchen_tiramisu.md)
+* [Piroschki](piroschki.md)
 * [Schokoladenwurst](schokoladenwurst.md)
-* [Chocolate-Thumbprint-Cookies](chocolate_thumbprint_cookies.md)
