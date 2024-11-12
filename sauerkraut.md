@@ -25,4 +25,4 @@ Dies ist ein einfaches Familienrezept für Sauerkraut nach russischer Art.
 
 - Wenn der Weißkohl nicht reif genug ist, dann kann es sein, dass sich nicht genug Flüssigkeit bildet. Dann kann es helfen, ein wenig Wasser hinzuzufügen.
 - Wenn das Sauerkraut direkt als Beilage verzehrt wird, dann sollte man noch ein bisschen Öl dazugeben. 
-- Je länger man das Sauerkraut lagert, desto saurer wird es. Falls es für die Weiterverbeitung (z.B. als Zutat für Borschtsch) zu sauer ist, dann kann man es vorher mit Wasser abspülen.
+- Je länger man das Sauerkraut lagert, desto saurer wird es. Falls es für die Weiterverarbeitung (z.B. als Zutat für Borschtsch) zu sauer ist, dann kann man es vorher mit Wasser abspülen.
