@@ -8,7 +8,7 @@ Dies ist ein einfaches Familienrezept für Sauerkraut nach russischer Art.
 
 - 3kg Weißkohl, möglichst reif
 - 1 große Möhre (ca. 160g)
-- 1 gehäufter Esslöffel grober Salz
+- 1 gehäufter Esslöffel grobes Salz
 
 ## Zubereitung
 
