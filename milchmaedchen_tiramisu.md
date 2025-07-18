@@ -5,13 +5,13 @@
 - 250g Mascarpone
 - 125g Milchmädchen
 - 12 Löffelbiskuits (entspricht einer Packung)
-- 30 Teelöffel abgekühlter, starker Kaffe
+- 30 Teelöffel abgekühlter, starker Kaffee
 - 12 Teelöffel Amaretto
 - Backkakao zum Bestreuen
 
 ## Zubereitung
 
-- Kaffe zubereiten und zum Abkühlen stehen lassen
+- Kaffee zubereiten und zum Abkühlen stehen lassen
 - Mascarpone und Milchmädchen in eine Schüssel geben und mit dem Mixer schaumig schlagen
 - Mit 6 Löffelbiskuits den Boden einer Form belegen. Dazu eignet sich eine kleine Auflaufform oder eine Brotdose.
 - Die 6 Löffelbiskuits mit je 2,5 Teelöffel Kaffe und 1 Teelöffel Amaretto übergießen
